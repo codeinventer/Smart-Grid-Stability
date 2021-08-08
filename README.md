@@ -1,1 +1,1 @@
-# Smart-Grid-Stability
+# SmartGridStability
